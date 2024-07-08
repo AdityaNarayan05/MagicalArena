@@ -1,3 +1,4 @@
+const rollDice = require('./utils');
 class Player {
     constructor(name, health, strength, attack) {
         this.name = name;
