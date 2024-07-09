@@ -25,6 +25,6 @@ class Player {
     isAlive() {
         return this.health > 0;
     }
-}
+};
 
 module.exports = Player;
